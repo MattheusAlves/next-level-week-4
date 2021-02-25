@@ -1,8 +1,8 @@
 # Move-it
 
-## Project developed during the Next Level Week, event presented by Rocketseat.
+## Project developed during the Next Level Week, event promoted by Rocketseat.
 
-**Move-it is a pomodoro app that presents challenges at the end of each cycle**
+**Move-it is a pomodoro app that promotes challenges at the end of each cycle**
 
 **__Screnshots__**
 ![](/screenshots/moveit1.png?w=512)
